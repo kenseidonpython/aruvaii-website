@@ -1,0 +1,9 @@
+# macOS
+.__*
+
+# Images backup folder
+dame/
+
+# Optional
+# node_modules/
+# .DS_Store

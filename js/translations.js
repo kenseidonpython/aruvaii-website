@@ -136,9 +136,7 @@ const translations = {
     tea_h3_desc: "「治す・変える」のではなく、「今ここ」に戻る体験、文化的意味づけによる安心感を提供します。",
     gallery_title: "ギャラリー",
     contact_text: "カスタマーサービス",
-    book_text: "ご予約はこちら",
-    contact_title: "お問い合わせ",
-    submit_text: "送信する"
+    book_text: "ご予約はこちら"
   },
   en: {
     page_title: "FLA® - Advantages in Niigata Prefecture",
@@ -277,9 +275,7 @@ const translations = {
     tea_h3_desc: "Rather than \"healing or changing,\" it provides an experience of returning to \"here and now,\" with a sense of security through cultural meaning-making.",
     gallery_title: "Gallery",
     contact_text: "Customer Service",
-    book_text: "Book Now",
-    contact_title: "Contact Us",
-    submit_text: "Send"
+    book_text: "Book Now"
   },
   es: {
     page_title: "FLA® - Ventajas en la Prefectura de Niigata",
@@ -418,8 +414,6 @@ const translations = {
     tea_h3_desc: "En lugar de \"curar o cambiar,\" proporciona una experiencia de volver al \"aquí y ahora,\" con una sensación de seguridad a través de la creación de significado cultural.",
     gallery_title: "Galería",
     contact_text: "Servicio al Cliente",
-    book_text: "Reservar Ahora",
-    contact_title: "Contáctanos",
-    submit_text: "Enviar"
+    book_text: "Reservar Ahora"
   }
 };
